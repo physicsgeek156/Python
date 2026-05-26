@@ -1,2 +1,6 @@
 # Python
-Python projects
+Collection of python projects
+
+## Projects
+- 🪐 Planetary Gravitational Influence 
+- 🛸 Orbital Simulator
